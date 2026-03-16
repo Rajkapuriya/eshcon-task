@@ -1,0 +1,57 @@
+{
+  "pageId": "mock-page-welcome-page",
+  "slug": "welcome-page",
+  "title": "Mock Page: welcome-page",
+  "sections": [
+    {
+      "id": "mock-section-hero-1",
+      "type": "hero",
+      "props": {
+        "title": "Welcome to the Studios",
+        "subtitle": "This is loaded from the mock adapter.",
+        "heading": "How are you",
+        "quote": "dgdgd",
+        "label": "gdgd",
+        "url": ""
+      }
+    },
+    {
+      "id": "mock-section-features-1",
+      "type": "featureGrid",
+      "props": {
+        "features": [
+          {
+            "title": "Contentful",
+            "description": "Fully integrated headless CMS"
+          },
+          {
+            "title": "Redux",
+            "description": "Powerful state management for drafts"
+          },
+          {
+            "title": "A11y",
+            "description": "Tested for WCAG AAA accessibility"
+          }
+        ],
+        "title": ""
+      }
+    },
+    {
+      "id": "mock-section-cta-1",
+      "type": "cta",
+      "props": {
+        "label": "Go to Editor",
+        "url": "/studio/welcome-page",
+        "quote": "dfd",
+        "subtitle": "gdgd",
+        "heading": "gdgd",
+        "title": "gd"
+      }
+    },
+    {
+      "id": "new-hero-1773650405910",
+      "type": "hero",
+      "props": {}
+    }
+  ]
+}
